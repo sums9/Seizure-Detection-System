@@ -1,3 +1,4 @@
+![Project Banner](banner.png)
 # Seizure Detection System
 
 An analog-first medical monitoring prototype designed to detect seizure-like signal patterns using hardware-level thresholding.
